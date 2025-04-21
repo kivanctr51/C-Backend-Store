@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\bin\Debug\net8.0\İsimSoyisimBulma.exe
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\bin\Debug\net8.0\İsimSoyisimBulma.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\bin\Debug\net8.0\İsimSoyisimBulma.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\bin\Debug\net8.0\İsimSoyisimBulma.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\bin\Debug\net8.0\İsimSoyisimBulma.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\obj\Debug\net8.0\İsimSoyisimBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\obj\Debug\net8.0\İsimSoyisimBulma.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\obj\Debug\net8.0\İsimSoyisimBulma.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\obj\Debug\net8.0\İsimSoyisimBulma.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\obj\Debug\net8.0\İsimSoyisimBulma.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\obj\Debug\net8.0\refint\İsimSoyisimBulma.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\obj\Debug\net8.0\İsimSoyisimBulma.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\obj\Debug\net8.0\İsimSoyisimBulma.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\İsimSoyisimBulma\İsimSoyisimBulma\obj\Debug\net8.0\ref\İsimSoyisimBulma.dll

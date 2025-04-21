@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\bin\Debug\net8.0\HikayeOdevi.exe
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\bin\Debug\net8.0\HikayeOdevi.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\bin\Debug\net8.0\HikayeOdevi.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\bin\Debug\net8.0\HikayeOdevi.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\bin\Debug\net8.0\HikayeOdevi.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\obj\Debug\net8.0\HikayeOdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\obj\Debug\net8.0\HikayeOdevi.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\obj\Debug\net8.0\HikayeOdevi.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\obj\Debug\net8.0\HikayeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\obj\Debug\net8.0\HikayeOdevi.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\obj\Debug\net8.0\refint\HikayeOdevi.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\obj\Debug\net8.0\HikayeOdevi.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\obj\Debug\net8.0\HikayeOdevi.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Hikaye Ödevi\HikayeOdevi\obj\Debug\net8.0\ref\HikayeOdevi.dll

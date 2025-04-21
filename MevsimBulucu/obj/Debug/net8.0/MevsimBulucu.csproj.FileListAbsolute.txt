@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\bin\Debug\net8.0\MevsimBulucu.exe
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\bin\Debug\net8.0\MevsimBulucu.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\bin\Debug\net8.0\MevsimBulucu.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\bin\Debug\net8.0\MevsimBulucu.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\bin\Debug\net8.0\MevsimBulucu.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\obj\Debug\net8.0\MevsimBulucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\obj\Debug\net8.0\MevsimBulucu.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\obj\Debug\net8.0\MevsimBulucu.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\obj\Debug\net8.0\MevsimBulucu.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\obj\Debug\net8.0\MevsimBulucu.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\obj\Debug\net8.0\refint\MevsimBulucu.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\obj\Debug\net8.0\MevsimBulucu.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\obj\Debug\net8.0\MevsimBulucu.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ortalama Ödevi\MevsimBulucu\obj\Debug\net8.0\ref\MevsimBulucu.dll

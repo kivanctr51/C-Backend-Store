@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\bin\Debug\net8.0\KucukBuyukSayi.exe
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\bin\Debug\net8.0\KucukBuyukSayi.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\bin\Debug\net8.0\KucukBuyukSayi.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\bin\Debug\net8.0\KucukBuyukSayi.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\bin\Debug\net8.0\KucukBuyukSayi.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\obj\Debug\net8.0\KucukBuyukSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\obj\Debug\net8.0\KucukBuyukSayi.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\obj\Debug\net8.0\KucukBuyukSayi.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\obj\Debug\net8.0\KucukBuyukSayi.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\obj\Debug\net8.0\KucukBuyukSayi.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\obj\Debug\net8.0\refint\KucukBuyukSayi.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\obj\Debug\net8.0\KucukBuyukSayi.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\obj\Debug\net8.0\KucukBuyukSayi.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\KucukBuyukSayi\KucukBuyukSayi\obj\Debug\net8.0\ref\KucukBuyukSayi.dll

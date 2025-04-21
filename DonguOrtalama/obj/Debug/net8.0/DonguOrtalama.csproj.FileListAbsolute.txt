@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\bin\Debug\net8.0\DonguOrtalama.exe
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\bin\Debug\net8.0\DonguOrtalama.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\bin\Debug\net8.0\DonguOrtalama.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\bin\Debug\net8.0\DonguOrtalama.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\bin\Debug\net8.0\DonguOrtalama.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\obj\Debug\net8.0\DonguOrtalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\obj\Debug\net8.0\DonguOrtalama.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\obj\Debug\net8.0\DonguOrtalama.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\obj\Debug\net8.0\DonguOrtalama.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\obj\Debug\net8.0\DonguOrtalama.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\obj\Debug\net8.0\refint\DonguOrtalama.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\obj\Debug\net8.0\DonguOrtalama.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\obj\Debug\net8.0\DonguOrtalama.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Yüksek ve Düşük sayıları bulma\DonguOrtalama\DonguOrtalama\obj\Debug\net8.0\ref\DonguOrtalama.dll

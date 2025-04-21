@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\bin\Debug\net8.0\CarpimTablosu.exe
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\bin\Debug\net8.0\CarpimTablosu.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\bin\Debug\net8.0\CarpimTablosu.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\bin\Debug\net8.0\CarpimTablosu.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\bin\Debug\net8.0\CarpimTablosu.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\obj\Debug\net8.0\CarpimTablosu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\obj\Debug\net8.0\CarpimTablosu.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\obj\Debug\net8.0\CarpimTablosu.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\obj\Debug\net8.0\CarpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\obj\Debug\net8.0\CarpimTablosu.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\obj\Debug\net8.0\refint\CarpimTablosu.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\obj\Debug\net8.0\CarpimTablosu.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\obj\Debug\net8.0\CarpimTablosu.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\ÇarpımTablosu\CarpimTablosu\CarpimTablosu\obj\Debug\net8.0\ref\CarpimTablosu.dll

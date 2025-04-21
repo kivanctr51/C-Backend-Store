@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\bin\Debug\net8.0\TasKagitMakas.exe
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\bin\Debug\net8.0\TasKagitMakas.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\bin\Debug\net8.0\TasKagitMakas.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\bin\Debug\net8.0\TasKagitMakas.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\bin\Debug\net8.0\TasKagitMakas.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\obj\Debug\net8.0\TasKagitMakas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\obj\Debug\net8.0\TasKagitMakas.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\obj\Debug\net8.0\TasKagitMakas.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\obj\Debug\net8.0\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\obj\Debug\net8.0\TasKagitMakas.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\obj\Debug\net8.0\refint\TasKagitMakas.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\obj\Debug\net8.0\TasKagitMakas.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\obj\Debug\net8.0\TasKagitMakas.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\TaşKagıtMakas\TasKagitMakas\TasKagitMakas\obj\Debug\net8.0\ref\TasKagitMakas.dll

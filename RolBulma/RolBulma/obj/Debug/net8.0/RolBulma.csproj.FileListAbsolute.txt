@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\bin\Debug\net8.0\RolBulma.exe
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\bin\Debug\net8.0\RolBulma.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\bin\Debug\net8.0\RolBulma.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\bin\Debug\net8.0\RolBulma.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\bin\Debug\net8.0\RolBulma.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\obj\Debug\net8.0\RolBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\obj\Debug\net8.0\RolBulma.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\obj\Debug\net8.0\RolBulma.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\obj\Debug\net8.0\RolBulma.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\obj\Debug\net8.0\RolBulma.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\obj\Debug\net8.0\refint\RolBulma.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\obj\Debug\net8.0\RolBulma.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\obj\Debug\net8.0\RolBulma.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Works\ders5\RolBulma\RolBulma\obj\Debug\net8.0\ref\RolBulma.dll

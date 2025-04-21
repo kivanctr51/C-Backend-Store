@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\obj\Debug\net8.0\UrunListeleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\obj\Debug\net8.0\UrunListeleme.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\obj\Debug\net8.0\UrunListeleme.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\obj\Debug\net8.0\UrunListeleme.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\bin\Debug\net8.0\UrunListeleme.exe
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\bin\Debug\net8.0\UrunListeleme.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\bin\Debug\net8.0\UrunListeleme.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\bin\Debug\net8.0\UrunListeleme.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\bin\Debug\net8.0\UrunListeleme.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\obj\Debug\net8.0\UrunListeleme.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\obj\Debug\net8.0\refint\UrunListeleme.dll
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\obj\Debug\net8.0\UrunListeleme.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\obj\Debug\net8.0\UrunListeleme.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Akademi\Ödevler\Ürün Listeleme\UrunListeleme\UrunListeleme\obj\Debug\net8.0\ref\UrunListeleme.dll

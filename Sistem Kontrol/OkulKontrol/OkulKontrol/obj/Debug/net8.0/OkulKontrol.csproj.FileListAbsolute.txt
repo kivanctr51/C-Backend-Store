@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\bin\Debug\net8.0\OkulKontrol.exe
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\bin\Debug\net8.0\OkulKontrol.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\bin\Debug\net8.0\OkulKontrol.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\bin\Debug\net8.0\OkulKontrol.dll
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\bin\Debug\net8.0\OkulKontrol.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\obj\Debug\net8.0\OkulKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\obj\Debug\net8.0\OkulKontrol.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\obj\Debug\net8.0\OkulKontrol.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\obj\Debug\net8.0\OkulKontrol.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\obj\Debug\net8.0\OkulKontrol.dll
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\obj\Debug\net8.0\refint\OkulKontrol.dll
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\obj\Debug\net8.0\OkulKontrol.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\obj\Debug\net8.0\OkulKontrol.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Sistem Kontrol\OkulKontrol\OkulKontrol\obj\Debug\net8.0\ref\OkulKontrol.dll
